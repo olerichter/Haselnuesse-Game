@@ -5,6 +5,13 @@ Haselnüsse,Haselnüsse,Haselnüsse! was a project from my second semester of my
 IDE: Netbeans
 JAVA 6
 
+![Alt Text](readme_start_menu.jpg?raw=true "Start Menü")
+
+![Alt Text](readme_map_view.jpg?raw=true "Kartenansicht")
+            
+![Alt Text](readme_fight_gras.jpg?raw=true "Kampfansicht für Wiese")
+
+
 @version 0.9 - 2012-09-01
 @author Ole Richter
 @mail github@olerichter.com
